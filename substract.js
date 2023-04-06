@@ -4,4 +4,4 @@ module.exports = function substract(a,b){
         throw new Error("Invalid Operation")
     }
     return res 
-}
+} 
